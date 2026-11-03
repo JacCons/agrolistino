@@ -1,0 +1,136 @@
+mercato,data,prodotto,prezzo,unita,condizione
+verona,2026-11-03,Conigli - Leggeri - n.s.,"3,23",€/Kg,Franco azienda
+verona,2026-11-03,Conigli - Pesanti - n.s.,"3,29",€/Kg,Franco azienda
+verona,2026-11-03,Polli - Taglia leggera - n.s.,"1,61",€/Kg,Franco azienda
+verona,2026-11-03,Polli - Taglia pesante - n.s.,"1,61",€/Kg,Franco azienda
+verona,2026-10-30,Latte spot - Nazionale crudo - n.s.,"47,25",€/100 kg,Franco arrivo
+verona,2026-10-29,Cipolle - Tonde gialle - I Qualita',"0,60",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Colza - ns - n.s.,"547,00",€/T,Franco azienda
+verona,2026-10-29,Fieno di prato stabile - ns - n.s.,"85,00",€/T,Franco azienda
+verona,2026-10-29,Frumento tenero - Buono mercantile - n.s.,"252,00",€/T,Franco azienda
+verona,2026-10-29,Mais - ns - n.s.,"257,50",€/T,Franco azienda
+verona,2026-10-29,Mele - Fuji - I Qualita' Calibro 80-90,"0,98",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Fuji - Prodotto Di Massa,"0,55",€/Kg,Franco azienda
+verona,2026-10-29,Mele - Fuji - I Qualita' Calibro 75-80,"0,85",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Gala Gruppo - I Qualita' Calibro 75-80,"0,70",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Gala Gruppo - I Qualita' Calibro 80-85,"0,78",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Gala Gruppo - I Qualita' Calibro 70-75,"0,65",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Golden delicious - I Qualita' Calibro 75-80,"0,65",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Golden delicious - I Qualita' Calibro 80-85,"0,75",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Golden delicious - I Qualita' Calibro 70-75,"0,55",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Granny smith - I Qualita' Calibro 75-80,"0,70",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Granny smith - I Qualita' Calibro 80-85,"0,80",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Granny smith - I Qualita' Calibro 70-75,"0,64",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Morgenduft(Imperatore) - Prodotto Di Massa,"0,28",€/Kg,Franco azienda
+verona,2026-10-29,Mele - Stark delicious - I Qualita' Calibro 75-80,"0,65",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Stark delicious - I Qualita' Calibro 80-85,"0,80",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Mele - Stark delicious - I Qualita' Calibro 70-75,"0,55",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Orzo - ns - n.s.,"235,50",€/T,Franco azienda
+verona,2026-10-29,Orzo estero - ns - n.s.,"246,50",€/T,Franco magazzino - partenza
+verona,2026-10-29,Patate comuni - ns - I Qualita' Sacchi 5/10 kg,"0,75",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - Abate fetel - I Qualita' Calibro 60-70,"1,50",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - Abate fetel - I Qualita' Calibro 75-80,"1,85",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - Abate fetel - I Qualita' Calibro 70-75,"1,68",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - Kaiser - I Qualita' Calibro 75-80,"1,45",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - Kaiser - I Qualita' Calibro 70-75,"1,35",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Pere - William bianco - I Qualita' Calibro 60-65,"0,85",€/Kg,Franco magazzino - partenza
+verona,2026-10-29,Radicchio - Rosso verona - I Qualita',"0,80",€/Kg,Franco mercato produzione
+verona,2026-10-29,Radicchio - Tipo Chioggia Autunnale - I Qualita',"0,80",€/Kg,Franco mercato produzione
+verona,2026-10-28,Olio dop - Garda - n.s.,"14,00",€/Kg,Franco azienda
+verona,2026-10-26,Frumento tenero - Fino - n.s.,"259,50",€/T,Franco magazzino - partenza
+verona,2026-10-26,Mele da tavola bio - Fuji - I Qualita' Calibro 80-90,"1,18",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Mele da tavola bio - Fuji - I Qualita' Calibro 75-80,"1,05",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Mele da tavola bio - Golden Delicious - I Qualita' Calibro 75-80,"0,75",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Mele da tavola bio - Golden Delicious - I Qualita' Calibro 80-85,"0,80",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Mele da tavola bio - Golden Delicious - I Qualita' Calibro 70-75,"0,65",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Pere da tavola bio - Abate Fetel - I Qualita' Calibro 60-70,"1,80",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Pere da tavola bio - Abate Fetel - I Qualita' Calibro 75-80,"2,10",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Pere da tavola bio - Abate Fetel - I Qualita' Calibro 70-75,"2,00",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Pere da tavola bio - William bianco - I Qualita' Calibro 60-65,"1,30",€/Kg,Franco magazzino - partenza
+verona,2026-10-26,Riso - Vialone nano e sim. - n.s.,"475,00",€/T,Franco azienda
+treviso,2026-10-27,Anatre - Generale - n.s.,"3,40",€/Kg,Franco azienda
+treviso,2026-10-27,Conigli - Leggeri - n.s.,"3,22",€/Kg,Franco azienda
+treviso,2026-10-27,Conigli - Pesanti - n.s.,"3,28",€/Kg,Franco azienda
+treviso,2026-10-27,Faraone - Taglia pesante - n.s.,"3,73",€/Kg,Franco azienda
+treviso,2026-10-27,Galline - Taglia media - n.s.,"0,47",€/Kg,Franco azienda
+treviso,2026-10-27,Galline - Taglia pesante - n.s.,"0,53",€/Kg,Franco azienda
+treviso,2026-10-27,Polli - Taglia leggera - n.s.,"1,52",€/Kg,Franco azienda
+treviso,2026-10-27,Polli - Taglia pesante - n.s.,"1,62",€/Kg,Franco azienda
+treviso,2026-10-27,Tacchini - Taglia media - Femmine,"2,23",€/Kg,Franco azienda
+treviso,2026-10-27,Tacchini - Taglia media - Maschi,"2,26",€/Kg,Franco azienda
+treviso,2026-10-27,Uova da allev.gabbia arricchita - L (tra 63 e73 gr) - n.s.,"21,50",€/100 unità,Franco azienda
+treviso,2026-10-27,Uova da allev.gabbia arricchita - M (tra 53 e 63 gr) - n.s.,"20,10",€/100 unità,Franco azienda
+treviso,2026-10-27,Uova da allev.gabbia arricchita - S (meno di 53 gr) - n.s.,"18,10",€/100 unità,Franco azienda
+treviso,2026-10-27,Uova da allev.gabbia arricchita - Xl (oltre 73 gr) - n.s.,"23,30",€/100 unità,Franco azienda
+treviso,2026-10-27,Uova da allevamento a terra - L (tra 63 e73 gr) - n.s.,"23,80",€/100 unità,Franco azienda
+treviso,2026-10-27,Uova da allevamento a terra - M (tra 53 e 63 gr) - n.s.,"22,60",€/100 unità,Franco azienda
+treviso,2026-10-26,"Vini Igt bianchi - Veneto Chardonnay - Chardonnay Med. 12,0 Gradi","6,55",€/Ettogrado,Franco azienda
+treviso,2026-10-26,"Vini Igt bianchi - Veneto Verduzzo - Verduzzo Med. 10,5 Gradi","6,05",€/Ettogrado,Franco azienda
+treviso,2026-10-26,"Vini Igt rossi e rosati - Veneto Merlot - Merlot Med. 11,5 Gradi","5,25",€/Ettogrado,Franco azienda
+treviso,2026-10-26,"Vini Igt rossi e rosati - Veneto Raboso - Raboso Med. 12,5 Gradi","6,75",€/Ettogrado,Franco azienda
+padova,2026-10-29,Mais - ns - n.s.,"266,00",€/T,Franco azienda
+padova,2026-10-29,Scottona - Charolaise - 500 - 550 kg,"4,54",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Scottona - Limousine - 450 - 480 kg,"5,10",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelle da ristallo - Charolaise - 300-350 kg,"5,50",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelle da ristallo - Limousine - 300 kg,"5,73",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelli da Ristallo - Charolaise - 350-400 kg,"5,10",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelli da Ristallo - Charolaise - 450-500 kg,"4,70",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelli da Ristallo - Incrocio - Francese 400 kg,"4,88",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelli da Ristallo - Limousine - 300-400 kg,"5,65",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelloni - Charolaise - 680 - 760 kg,"4,17",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelloni - Incrocio - I Qualita' Incrocio Francese 680 - 720 kg,"4,23",€/Kg/peso vivo,Franco azienda
+padova,2026-10-29,Vitelloni - Limousine - 570 - 600 kg,"4,85",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Baliotti - Frisona/pezz. nera - n.s.,"3,93",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Baliotti - Pezzata rossa - n.s.,"5,63",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Manze - Charolaise - n.s.,"4,53",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Manze - Incrocio - n.s.,"3,99",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Manze - Limousine - n.s.,"5,13",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Manze - Pezzata rossa - n.s.,"3,52",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vacche - Incrocio - Da industria,"1,85",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vacche - Incrocio - I Qualita',"2,63",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vacche - Incrocio - II Qualita',"2,23",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelle da ristallo - Charolaise - 300 kg,"5,11",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelle da ristallo - Charolaise - 350 kg,"4,98",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelle da ristallo - Charolaise - 400 kg,"4,68",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelle da ristallo - Limousine - 300 kg,"5,53",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelle da ristallo - Limousine - 350 kg,"5,31",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli - Frisona/Pezzata Nera - II Qualita',"3,47",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli - Pezzata rossa - I Qualita',"4,10",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Charolaise - 350 kg,"4,90",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Charolaise - 400 kg,"4,48",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Charolaise - 450 kg,"4,33",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Limousine - 300 kg,"5,58",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Limousine - 350 kg,"5,36",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelli da Ristallo - Limousine - 400 kg,"5,02",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelloni - Charolaise - I Qualita',"4,34",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelloni - Frisona/Pezzata Nera - I Qualita',"2,67",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelloni - Incrocio - I Qualita',"3,90",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelloni - Limousine - n.s.,"4,79",€/Kg/peso vivo,Franco azienda
+padova,2026-10-27,Vitelloni - Pezzata rossa - n.s.,"3,57",€/Kg/peso vivo,Franco azienda
+rovigo,2026-10-30,Agli - ns - I Qualita',"3,80",€/Kg,Franco magazzino - partenza
+rovigo,2026-10-30,Cavolfiori - ns - Prodotto massa,"1,30",€/Kg,Franco azienda
+rovigo,2026-10-30,Finocchi - ns - Prodotto massa,"1,40",€/Kg,Franco azienda
+rovigo,2026-10-30,Lattuga - Cappuccia - Prodotto massa,"0,60",€/Kg,Franco azienda
+rovigo,2026-10-30,Lattuga - Gentile - Prodotto massa,"0,50",€/Kg,Franco azienda
+rovigo,2026-10-30,Lattuga - Romana - Prodotto massa,"0,70",€/Kg,Franco azienda
+rovigo,2026-10-30,Radicchio - Tipo Chioggia Autunnale - Prodotto massa,"1,20",€/Kg,Franco azienda
+rovigo,2026-10-30,Sedani - Da costa verdi - Prodotto massa,"1,10",€/Kg,Franco azienda
+rovigo,2026-10-29,Frumento tenero - Buono mercantile - n.s.,"253,50",€/T,Franco azienda
+rovigo,2026-10-29,Frumento tenero - Fino - n.s.,"260,00",€/T,Franco azienda
+rovigo,2026-10-29,Paglia di frumento - ns - n.s.,"67,50",€/T,Franco azienda
+venezia,2026-10-29,Soia - ns - 14% umidita' - 2% impurita',"506,50",€/T,Franco azienda
+venezia,2026-10-29,Sorgo - Bianco - n.s.,"246,50",€/T,Franco azienda
+vicenza,2026-10-29,Baliotti - Frisona/pezz. nera - I Qualita',"2,10",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Baliotti - Incrocio - n.s.,"4,35",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Baliotti - Pezzata rossa - I Qualita',"5,30",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Manze - Charolaise - n.s.,"4,15",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Manze - Incrocio - Incrocio Francese,"3,65",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Manze - Limousine - n.s.,"4,35",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vacche - Bruna - I Qualita',"1,80",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vacche - Frisona/Pezzata nera - I Qualita',"1,75",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vacche - Pezzata rossa - I Qualita',"2,15",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vitelloni - Charolaise - n.s.,"4,35",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vitelloni - Frisona/Pezzata Nera - I Qualita',"3,65",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vitelloni - Incrocio - I Qualita',"3,80",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vitelloni - Limousine - n.s.,"4,15",€/Kg/peso vivo,Franco azienda
+vicenza,2026-10-29,Vitelloni - Pezzata rossa - I Qualita',"3,55",€/Kg/peso vivo,Franco azienda
